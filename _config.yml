@@ -1,7 +1,7 @@
 name: graphicdesigner
 favicon: null
-layout_spectrum: 0.7861309410072863
-typography_spectrum: 0.8355072422418743
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.21923573757521808
-  lightness: 0.09525507385842502
-  saturation: 0.4796293976251036
-  rhythmicContrast: 0.017884870059788227
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
