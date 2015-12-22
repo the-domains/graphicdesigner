@@ -1,0 +1,28 @@
+name: graphicdesigner
+favicon: null
+layout_spectrum: 0.7861309410072863
+typography_spectrum: 0.8355072422418743
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.21923573757521808
+  lightness: 0.09525507385842502
+  saturation: 0.4796293976251036
+  rhythmicContrast: 0.017884870059788227
+purpose: []
